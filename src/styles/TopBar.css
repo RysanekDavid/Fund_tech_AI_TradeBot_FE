@@ -1,0 +1,41 @@
+.buttons {
+  font-family: "Proxima Nova", sans-serif !important;
+  text-transform: none !important;
+  font-size: 1rem !important;
+  color: white !important;
+  padding: 8px 20px !important;
+  border-radius: 20px !important;
+  transition: all 0.2s ease-in-out !important;
+  box-shadow: 0 1px 3px rgba(10, 0, 220, 0.9) !important;
+}
+
+.buttons:hover {
+  box-shadow: 0 1px 8px rgba(10, 0, 220, 1) !important;
+  background-color: black !important;
+}
+
+.get-started {
+  font-family: "Proxima Nova", sans-serif !important;
+  text-transform: none !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  color: white !important;
+  padding: 6px 16px !important;
+  background: linear-gradient(90deg, #031083, #00b9ff) !important;
+  border-radius: 10px !important;
+  transition: all 0.2s ease-in-out !important;
+}
+
+.get-started:hover {
+  background: linear-gradient(140deg, #031083, #00b9ff) !important;
+  box-shadow: 0 1px 3px rgba(10, 0, 220, 1) !important;
+  color: white !important;
+}
+
+.brand {
+  font-family: "Bellota", system-ui !important;
+  font-weight: 600 !important;
+  color: white !important;
+  font-size: 2rem !important;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) !important;
+}
